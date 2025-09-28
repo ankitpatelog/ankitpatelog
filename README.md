@@ -3,6 +3,7 @@
 </p>
 
 Hey, Ankit here! 💡
+<br>
 Building full-stack applications while mastering Java DSA and exploring LLMs. Goinng to dive into GenAI and AI model deployment. Fueled by curiosity and caffeine.
 
 ### Tech Stack
