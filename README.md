@@ -1,30 +1,21 @@
-```bash 
-sudo rm -rf / # run if you dare
-```
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/afbd6879-d480-44e5-9ecf-53d85e438731" alt="Lofi Nightlight scene" /> 
 </p>
 
-![Image](https://github.com/user-attachments/assets/afbd6879-d480-44e5-9ecf-53d85e438731)
-
-## Hello, Abhinav here
-I build ML-powered tools, break them often, and learn even more. Currently exploring GenAI, vector search, and how far curiosity (and deadlines) can take me.
+Hey, Ankit here! 💡
+Building full-stack applications while mastering Java DSA and exploring LLMs. Goinng to dive into GenAI and AI model deployment. Fueled by curiosity and caffeine.
 
 ### Tech Stack
-
 Languages: 
-<code>C++</code> <code>Python</code> <code>Java</code>
+<code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
 
 Frontend & Backend:
-<code>React</code> <code>Flask</code> <code>FastAPI</code> <code>Node.js</code>
+<code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Express</code>
 
 Databases:
-<code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code> <code>Firebase</code>
+<code>MongoDB</code> 
 
-ML/AI & Data:
-<code>TensorFlow</code> <code>PyTorch</code> <code>Scikit-learn</code> <code>NumPy</code> <code>Pandas</code> <code>HuggingFace</code>
-
-Tools & Cloud:  <code>OpenCV</code> <code>Matplotlib</code> <code>Docker</code> <code>AWS</code> <code>Azure</code> <code>Git</code>
+Tools & Cloud:<code>Git</code>
 
 ### Projects
 
