@@ -2,7 +2,7 @@
 sudo rm -rf / # run if you dare
 ```
 <p align="center"> 
-  <img src="nightlife_banner.gif" alt="Lofi Nightlight scene" /> 
+  <img src="nightlife_banner.gif (1)" alt="Lofi Nightlight scene" /> 
 </p>
 
 ## Hello, Abhinav here
