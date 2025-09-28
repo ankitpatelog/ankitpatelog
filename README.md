@@ -2,7 +2,7 @@
 sudo rm -rf / # run if you dare
 ```
 <p align="center"> 
-  <img src="![Image](https://github.com/user-attachments/assets/afbd6879-d480-44e5-9ecf-53d85e438731)" alt="Lofi Nightlight scene" /> 
+  <img src="https://github.com/user-attachments/assets/afbd6879-d480-44e5-9ecf-53d85e438731" alt="Lofi Nightlight scene" /> 
 </p>
 
 ![Image](https://github.com/user-attachments/assets/afbd6879-d480-44e5-9ecf-53d85e438731)
