@@ -5,6 +5,8 @@ sudo rm -rf / # run if you dare
   <img src="nightlife_banner.gif (1)" alt="Lofi Nightlight scene" /> 
 </p>
 
+![Image](https://github.com/user-attachments/assets/afbd6879-d480-44e5-9ecf-53d85e438731)
+
 ## Hello, Abhinav here
 I build ML-powered tools, break them often, and learn even more. Currently exploring GenAI, vector search, and how far curiosity (and deadlines) can take me.
 
