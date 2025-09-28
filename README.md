@@ -18,6 +18,13 @@ Databases:
 
 Tools & Cloud:<code>Git</code>
 
+## 🛠️ Tech Stack
+
+**Languages:**
+<kbd>Java</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd>
+
+**Frontend & Backend:**
+<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd>
 ### Projects
 
 - [NeuNet](https://github.com/Abhinavexists/NeuNet) - Implementation of feedforward-backpropagated Neural Network from Scratch.  
