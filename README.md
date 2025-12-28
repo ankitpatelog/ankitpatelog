@@ -1,61 +1,21 @@
-<p align="center"> 
-  <img src="https://github.com/user-attachments/assets/afbd6879-d480-44e5-9ecf-53d85e438731" alt="Lofi Nightlight scene" /> 
-</p>
-
-Hey, Ankit here! 💡
-<br>
-Building full-stack applications while mastering Java DSA and exploring LLMs. Going to dive into GenAI and AI model deployment. Fueled by curiosity and caffeine.
-
-### Tech Stack
-Languages: 
-<code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
-
-Frontend & Backend:
-<code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Express</code>
-
-Databases:
-<code>MongoDB</code> 
-
-Tools & Cloud:<code>Git</code>
-
-## 🛠️ Tech Stack
-
-**Languages:**
-<kbd>Java</kbd> <kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd>
-
-**Frontend & Backend:**
-<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd>
-### Projects
-
-- [NeuNet](https://github.com/Abhinavexists/NeuNet) - Implementation of feedforward-backpropagated Neural Network from Scratch.  
-- [MCP Server](https://github.com/Abhinavexists/MCP_Server) - A Simple Implementation of the Model Context Protocol.  
-- [Wavelet-Transform](https://github.com/Abhinavexists/Wavelet-Transforms) - Image denoising using wavelet transforms, featuring multiple thresholding methods, color space processing.  
-  <br>
-
-- [Redoc](https://github.com/Abhinavexists/Redoc) - Document research and theme identification application with multi-level citation capabilities. 
-- [FinWell](https://github.com/Abhinavexists/FinWell) - A sophisticated multi-agent financial analysis tool that provides comprehensive stock market analysis.  
-- [AgenticBob](https://github.com/Abhinavexists/AgenticBOB) - AI-powered content research and writing assistant built with CrewAI and Streamlit.  
-  <br>
-
-- [ArrowSense](https://github.com/Abhinavexists/ArrowSense) - Real-time video to detect arrow shapes using color-based HSV filtering and contour detection in OpenCV.  
-- [Brieflet](https://github.com/Abhinavexists/Brieflet) - A tool for automating research paper summarization and domain classification.  
-  <br>
-
-- [Koala](https://github.com/Abhinavexists/Koala) - A web search engine built with FastAPI.  
-- [StockBoard](https://github.com/Abhinavexists/StockBoard) -A modern, responsive stock market dashboard built with Next.js, React, and TypeScript.  
-  <br>
-
-<div align="center">
-  <div class="grid grid-cols-2 gap-4">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abhinavexists&show_icons=true&count_private=true&hide_border=false&title_color=2AA889&icon_color=599CAB&text_color=99D1CE&bg_color=0C1014" alt="Abhinav's GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhinavexists&theme=dark-smoky&hide_border=false" alt="Abhinav's GitHub Streak" width="51%" />
-  </div>
-  <div class="grid grid-cols-2 gap-4 mt-4">
-
-  </div>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on full-stack web projects using Next.js & MongoDB<br><br>👯 I’m looking to collaborate on open-source and real-world web applications<br><br>🤝 I’m looking for help with scaling applications and backend optimization<br><br>🌱 I’m currently learning Data Science, Python, and advanced backend concepts<br><br>💬 Ask me about JavaScript, React, Next.js, and web development basics<br><br>⚡ Fun fact: I learn best by building projects instead of just watching tutorials
 
 
-If you like my projects, Give them ⭐ and Share them!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitpatel_op) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-patel-78023238b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitpatel22092004@gmail.com) 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankitpatelog&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ankitpatelog&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpatelog&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankitpatelog&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ankitpatelog&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
